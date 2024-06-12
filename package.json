@@ -8,15 +8,16 @@
   "bugs": {
     "url": "https://github.com/lxl80/hexo-deployer-cos-cdn/issues"
   },
-  "bundleDependencies": false,
+  "bundleDependencies": [],
   "dependencies": {
-    "ali-oss": "^6.5.1",
     "@alicloud/pop-core": "1.7.9",
+    "ali-oss": "^6.5.1",
     "chalk": "^2.3.0",
     "cos-nodejs-sdk-v5": "^2.4.3",
     "hexo-fs": "^0.2.2",
     "lodash": "^4.17.2",
     "request": "^2.79.0",
+    "tencentcloud-sdk-nodejs-cdn": "^4.0.859",
     "utility": "^1.9.0"
   },
   "deprecated": false,
